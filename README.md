@@ -1,7 +1,26 @@
 ### Welcome 👋
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C528%20hrs%2040%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.7%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 25 mins             █████████████████████████   99.48 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+
+🔥 Editors: 
+Obsidian                 25 mins             █████████████████████████   99.48 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+
+💻 Operating System: 
+Mac                      25 mins             █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in C** 
 
@@ -20,7 +39,7 @@ MLIR                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bohan-hu/Bohan-hu/master/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2024 18:43:49 UTC
+ Last Updated on 25/07/2024 18:39:49 UTC
 <!--END_SECTION:waka-->
 
 
