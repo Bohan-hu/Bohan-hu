@@ -1,7 +1,7 @@
 ### Welcome 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C530%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C531%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.7%20million%20lines%20of%20code-blue)
 
@@ -11,13 +11,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 17 mins       █████████████████████████   100.00 % 
+Markdown                 2 hrs 17 mins       ████████████████████████░   94.42 % 
+sh                       8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 🔥 Editors: 
-Obsidian                 2 hrs 17 mins       █████████████████████████   100.00 % 
+Obsidian                 2 hrs 17 mins       ████████████████████████░   94.42 % 
+Zsh                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 💻 Operating System: 
-Mac                      2 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 17 mins       ████████████████████████░   94.42 % 
+Linux                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 ```
 
 **I Mostly Code in C** 
@@ -37,7 +40,7 @@ MLIR                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bohan-hu/Bohan-hu/master/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2024 18:41:38 UTC
+ Last Updated on 31/07/2024 18:41:53 UTC
 <!--END_SECTION:waka-->
 
 
