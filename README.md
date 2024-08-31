@@ -11,13 +11,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 33 mins       █████████████████████████   100.00 % 
+Markdown                 2 hrs 7 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 3 hrs 33 mins       █████████████████████████   100.00 % 
+Obsidian                 2 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -37,7 +37,7 @@ MLIR                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bohan-hu/Bohan-hu/master/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2024 18:43:33 UTC
+ Last Updated on 31/08/2024 18:41:01 UTC
 <!--END_SECTION:waka-->
 
 
