@@ -1,7 +1,7 @@
 ### Welcome 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C131%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C131%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.1%20million%20lines%20of%20code-blue)
 
@@ -11,14 +11,14 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-sh                       0 secs              █████████████████████████   100.00 % 
+sh                       5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Zsh                      0 secs              ██████████████░░░░░░░░░░░   57.24 % 
-Neovim                   0 secs              ███████████░░░░░░░░░░░░░░   42.76 % 
+Zsh                      4 mins              ██████████████████████░░░   89.41 % 
+Neovim                   0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -38,7 +38,7 @@ AGS Script               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bohan-hu/Bohan-hu/master/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2025 18:54:56 UTC
+ Last Updated on 25/11/2025 18:53:24 UTC
 <!--END_SECTION:waka-->
 
 
