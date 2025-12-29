@@ -11,17 +11,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-sh                       28 mins             █████████████░░░░░░░░░░░░   50.19 % 
-Python                   27 mins             ████████████░░░░░░░░░░░░░   48.22 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zsh                      28 mins             █████████████░░░░░░░░░░░░   50.19 % 
-Neovim                   28 mins             ████████████░░░░░░░░░░░░░   49.81 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -41,7 +37,7 @@ AGS Script               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bohan-hu/Bohan-hu/master/assets/bar_graph.png)
 
 
- Last Updated on 28/12/2025 18:53:50 UTC
+ Last Updated on 29/12/2025 18:55:45 UTC
 <!--END_SECTION:waka-->
 
 
