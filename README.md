@@ -1,9 +1,9 @@
 ### Welcome 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C183%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C183%20hrs%2019%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.15%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.29%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -28,11 +28,11 @@ Linux                    21 hrs 45 mins      ███████████�
 **I Mostly Code in C** 
 
 ```text
-C                        29 repos            █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-C++                      22 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Jupyter Notebook         8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Verilog                  7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-AGS Script               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+C                        30 repos            ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+C++                      22 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Jupyter Notebook         8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Verilog                  8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+AGS Script               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 
 
@@ -42,7 +42,7 @@ AGS Script               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bohan-hu/Bohan-hu/master/assets/bar_graph.png)
 
 
- Last Updated on 16/04/2026 19:47:04 UTC
+ Last Updated on 17/04/2026 19:39:24 UTC
 <!--END_SECTION:waka-->
 
 
