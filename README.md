@@ -1,7 +1,31 @@
 ### Welcome 👋
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C677%20hrs%208%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.03%20million%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 1 hr 34 mins        ████████░░░░░░░░░░░░░░░░░   30.71 % 
+Scala                    1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+TeX                      45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+SystemVerilog            33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+sh                       21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+
+🔥 Editors: 
+Claude Code              4 hrs 35 mins       ██████████████████████░░░   89.14 % 
+Zsh                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Neovim                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+
+💻 Operating System: 
+Linux                    4 hrs 54 mins       ████████████████████████░   95.27 % 
+Mac                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+```
 
 **I Mostly Code in C** 
 
@@ -20,7 +44,7 @@ AGS Script               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bohan-hu/Bohan-hu/master/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:58:12 UTC
+ Last Updated on 25/07/2026 19:45:33 UTC
 <!--END_SECTION:waka-->
 
 
