@@ -13,40 +13,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-Markdown                 1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-sh                       45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Other                    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-C++                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Bash                     1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   30.93 % 
+sh                       45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Other                    43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Markdown                 38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+C++                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 16 mins       █████████████████████░░░░   83.33 % 
-Zsh                      52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Neovim                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Claude Code              3 hrs 31 mins       ███████████████████░░░░░░   77.48 % 
+Zsh                      50 mins             █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Neovim                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 💻 Operating System: 
-Linux                    5 hrs 48 mins       ███████████████████████░░   91.77 % 
-Mac                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Linux                    4 hrs 1 min         ██████████████████████░░░   88.54 % 
+Mac                      31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 22 mins (85.13%)
+⏱ AI Coding Time: 3 hrs 36 mins (79.31%)
 
-✍️ 2,131 lines written by AI, 406 lines written by hand (84.0% AI-written)
+✍️ 1,635 lines written by AI, 406 lines written by hand (80.11% AI-written)
 
-🔤 38,835,072 Input Tokens, 532,908 Output Tokens
+🔤 24,072,288 Input Tokens, 326,309 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 45 AI Prompts
+🧠 3 AI Sessions, 29 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.0% of written lines came from AI
-📚 Verbose Prompter — average 2,001 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 15.77% of changed lines were hand-edited
+🤖 AI-Driven — 80.11% of written lines came from AI
+📚 Verbose Prompter — average 2,071 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 19.89% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -66,7 +66,7 @@ AGS Script               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bohan-hu/Bohan-hu/master/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 19:55:22 UTC
+ Last Updated on 30/07/2026 20:04:42 UTC
 <!--END_SECTION:waka-->
 
 
