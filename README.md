@@ -1,11 +1,11 @@
 ### Welcome 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C618%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C625%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-519%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-526%20hrs%2024%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.03%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.13%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,50 +13,50 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.65 % 
-Python                   2 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.32 % 
-sh                       1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Markdown                 7 hrs 34 mins       ████████████░░░░░░░░░░░░░   49.99 % 
+Python                   5 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.37 % 
+sh                       1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Scala                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 12 mins       █████████████████████░░░░   84.36 % 
-Zsh                      1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude Code              13 hrs 39 mins      ███████████████████████░░   90.22 % 
+Zsh                      1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    7 hrs 26 mins       ██████████████████████░░░   87.20 % 
-Mac                      1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Linux                    14 hrs 15 mins      ████████████████████████░   94.12 % 
+Mac                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 12 mins (84.4%)
+⏱ AI Coding Time: 14 hrs 6 mins (93.14%)
 
-✍️ 12,615 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 21,040 lines written by AI, 5 lines written by hand (99.98% AI-written)
 
-🔤 95,090,423 Input Tokens, 994,252 Output Tokens
+🔤 186,608,560 Input Tokens, 1,726,373 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 52 AI Prompts
+🧠 6 AI Sessions, 90 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,218 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 4,642 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
 
 ```text
-C                        30 repos            █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-C++                      22 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Jupyter Notebook         8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Verilog                  8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-AGS Script               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+C                        30 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+C++                      22 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Python                   16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Jupyter Notebook         8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+AGS Script               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 
 
@@ -66,7 +66,7 @@ AGS Script               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bohan-hu/Bohan-hu/master/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:45:53 UTC
+ Last Updated on 04/08/2026 20:12:32 UTC
 <!--END_SECTION:waka-->
 
 
