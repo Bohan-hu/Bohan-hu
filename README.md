@@ -1,7 +1,7 @@
 ### Welcome 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C625%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C626%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-526%20hrs%2024%20mins-blue?style=flat)
 
@@ -13,26 +13,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 34 mins       ████████████░░░░░░░░░░░░░   49.99 % 
-Python                   5 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.37 % 
-sh                       1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Scala                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Markdown                 7 hrs 34 mins       ████████████░░░░░░░░░░░░░   48.95 % 
+Python                   5 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   34.63 % 
+sh                       1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Scala                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 39 mins      ███████████████████████░░   90.22 % 
-Zsh                      1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Claude Code              13 hrs 39 mins      ██████████████████████░░░   88.34 % 
+Zsh                      1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    14 hrs 15 mins      ████████████████████████░   94.12 % 
-Mac                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Linux                    14 hrs 15 mins      ███████████████████████░░   92.16 % 
+Mac                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 6 mins (93.14%)
+⏱ AI Coding Time: 14 hrs 6 mins (91.2%)
 
 ✍️ 21,040 lines written by AI, 5 lines written by hand (99.98% AI-written)
 
@@ -66,7 +66,7 @@ AGS Script               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bohan-hu/Bohan-hu/master/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:12:32 UTC
+ Last Updated on 05/08/2026 20:10:31 UTC
 <!--END_SECTION:waka-->
 
 
