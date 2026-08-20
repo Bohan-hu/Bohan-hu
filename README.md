@@ -1,11 +1,11 @@
 ### Welcome 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C704%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C706%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-596%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-599%20hrs%2013%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.57%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.73%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,39 +13,39 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   23 hrs 37 mins      ███████████░░░░░░░░░░░░░░   44.47 % 
-Markdown                 20 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   38.47 % 
-sh                       5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Bash                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Text                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Python                   22 hrs 10 mins      ████████████░░░░░░░░░░░░░   46.66 % 
+Markdown                 17 hrs 25 mins      █████████░░░░░░░░░░░░░░░░   36.64 % 
+sh                       4 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Bash                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Text                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-Claude Code              46 hrs 55 mins      ██████████████████████░░░   88.35 % 
-Zsh                      6 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Claude Code              42 hrs 20 mins      ██████████████████████░░░   89.08 % 
+Zsh                      5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Linux                    47 hrs 16 mins      ██████████████████████░░░   89.01 % 
-Mac                      5 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Linux                    42 hrs 37 mins      ██████████████████████░░░   89.67 % 
+Mac                      4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 hrs 16 mins (89.03%)
+⏱ AI Coding Time: 42 hrs 40 mins (89.75%)
 
-✍️ 98,405 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 94,850 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 20,428,129 Input Tokens, 5,718,597 Output Tokens
+🔤 18,300,846 Input Tokens, 5,102,467 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 264 AI Prompts
+🧠 17 AI Sessions, 237 AI Prompts
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 15,001 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
+📚 Verbose Prompter — average 15,232 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -66,7 +66,7 @@ AGS Script               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bohan-hu/Bohan-hu/master/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 19:07:18 UTC
+ Last Updated on 20/08/2026 19:15:27 UTC
 <!--END_SECTION:waka-->
 
 
